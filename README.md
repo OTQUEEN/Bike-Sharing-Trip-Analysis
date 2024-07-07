@@ -98,3 +98,4 @@ trip <- bind_rows(merge_21, merge_22)
 
 
 
+
